@@ -1,10 +1,10 @@
 export const seo = {
-  title: 'Cali Castle | 开发者、设计师、细节控、创始人',
+  title: 'Zigao Wang | 开发者、学生、前端程序员、创始人',
   description:
-    '我叫 Cali，一名开发者，设计师，细节控，同时也是佐玩创始人，目前带领着佐玩致力于创造一个充满创造力的工作环境，同时鼓励团队创造影响世界的产品。',
+    '我叫 Zigao Wang，是开发者、学生、前端程序员，同时也是 Pacer Club 创始人。我热爱马拉松，致力于在前端开发领域不断学习和成长，同时带领着 Pacer Club 鼓励团队创造影响世界的产品。',
   url: new URL(
     process.env.NODE_ENV === 'production'
-      ? 'https://cali.so'
+      ? 'https://blog.zigao.cc'
       : 'http://localhost:3000'
   ),
 } as const
