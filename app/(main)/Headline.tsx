@@ -80,10 +80,9 @@ export function Headline() {
         }}
       >
         <Balancer>
-          我是 Zigao，
+          我是 Zigao，是开发者、学生、前端程序员，同时也是
           <PeekabooLink href="https://pacer.org.cn">Pacer Club</PeekabooLink>
-          创始。
-          我热爱开发，设计，创新，享受生活，以及在未知领域中探索。
+          创始人。我热爱马拉松，致力于在前端开发领域不断学习和成长，同时带领着 Pacer Club 鼓励团队创造影响世界的产品。
         </Balancer>
       </motion.p>
       <motion.div
