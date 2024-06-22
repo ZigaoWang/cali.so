@@ -25,7 +25,7 @@ const nextConfig = {
     return [
       {
         "source": "/twitter",
-        "destination": "https://x.com/thecalicastle",
+        "destination": "https://x.com/zigaow",
         "permanent": true
       },
       {
